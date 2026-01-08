@@ -1,4 +1,4 @@
-# Active Directory Domain Services Home Lab
+# Active Directory Domain Services Lab
 
 ## Objective
 This lab demonstrates the deployment and administration of a Windows Active Directory Domain Services (AD DS) environment in a controlled virtual lab. The goal was to configure centralized identity management, implement security policies, and troubleshoot common Active Directory and DNS issues relevant to IT support, systems administration, and cybersecurity roles.
